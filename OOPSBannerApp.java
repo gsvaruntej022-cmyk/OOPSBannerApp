@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /**
  * OOPSBannerApp
  *
@@ -6,10 +7,14 @@
  * @author Varun
  * @version 2.0
  */
+=======
+
+>>>>>>> feature/UC3-StringJoin
 public class OOPSBannerApp {
 
     public static void main(String[] args) {
 
+<<<<<<< HEAD
         // Line 1
         System.out.println("  *****   " + "  *****   " + " *******  " + " *******  ");
 
@@ -30,5 +35,5 @@ public class OOPSBannerApp {
 
         // Line 7
         System.out.println("  *****   " + "  *****   " + " *        " + " *******  ");
-    }
+
 }
